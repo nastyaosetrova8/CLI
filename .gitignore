@@ -1,0 +1,19 @@
+node_modules/
+.vscode
+.idea
+.env
+.env.local
+package-lock.json
+yarn.lock
+yarn.error
+dcstore 
+
+
+
+
+
+# *.zip
+# *.log
+# *.logs
+# *error.log*
+# *debug.log*
